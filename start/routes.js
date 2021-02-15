@@ -17,3 +17,8 @@
 const Route = use('Route')
 
 Route.on('/').render('welcome')
+Route.get("customer", "CustomerController.index");
+Route.get("customer/index", "CustomerController.index");
+Route.get("customer/list", "CustomerController.index");
+Route.get("customer/form", "CustomerController.index");
+Route.get("customer/edit/:id?", "CustomerController.index");

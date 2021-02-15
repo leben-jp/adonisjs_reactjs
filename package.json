@@ -31,7 +31,8 @@
     "babel-loader": "^8.2.2",
     "path": "^0.12.7",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0"
   },
   "autoload": {
     "App": "./app"

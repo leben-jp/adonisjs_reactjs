@@ -1,1 +1,2 @@
-require('./components/Example');
+require("./components/Example");
+require("./components/customer/Main");
