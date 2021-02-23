@@ -16,11 +16,6 @@ function Nav() {
               Create
             </Link>
           </li>
-          <li class="nav-item">
-            <Link class="nav-link" to="/customer/edit/5">
-              Edit
-            </Link>
-          </li>
         </ul>
       </div>
     </nav>
